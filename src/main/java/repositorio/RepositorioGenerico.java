@@ -42,8 +42,5 @@ public class RepositorioGenerico<T> {
             return ultimo;
         }
         return null;
-       
     }
-    
-   int g;
 }
