@@ -2,8 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-//Nuevo
-
 package repositorio;
 
 import java.util.ArrayList;
@@ -44,5 +42,8 @@ public class RepositorioGenerico<T> {
             return ultimo;
         }
         return null;
+       
     }
+    
+   int g;
 }
